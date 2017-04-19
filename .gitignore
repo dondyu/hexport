@@ -1,4 +1,5 @@
 .byebug_history
-
 # Rubymine
 .idea/
+node_modules
+.DS_Store
